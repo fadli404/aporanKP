@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pagi"
+        android:title="Pagi"
+        android:icon="@drawable/pagi"/>
+    <item
+        android:id="@+id/siang"
+        android:title="Siang"
+        android:icon="@drawable/siang"/>
+    <item
+        android:id="@+id/malam"
+        android:title="Malam"
+        android:icon="@drawable/malam"/>
+</menu>
